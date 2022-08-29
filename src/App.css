@@ -1,0 +1,70 @@
+body {
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: 100vw;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem 5px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+input {
+  width: 35%;
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin-bottom: 2rem;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+}
+
+input:hover {
+  box-shadow: 0 0 8px black;
+}
+
+input:focus {
+  box-shadow: 0 0 10px black;
+}
+
+table {
+  width: 60%;
+  border-spacing: 20px;
+  color: #444;
+  display: flex;
+  justify-content: center;
+}
+
+tr {
+  margin-bottom: 20px;
+}
+
+th {
+  width: 250px;
+  text-align: left;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+td {
+  width: 250px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.numbers {
+  text-align: center;
+}
