@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-contact-search-filter-app/static/css/main.a8e9e912.css",
+    "main.js": "/react-contact-search-filter-app/static/js/main.0316b4ff.js",
+    "static/js/787.2d0daef2.chunk.js": "/react-contact-search-filter-app/static/js/787.2d0daef2.chunk.js",
+    "index.html": "/react-contact-search-filter-app/index.html",
+    "main.a8e9e912.css.map": "/react-contact-search-filter-app/static/css/main.a8e9e912.css.map",
+    "main.0316b4ff.js.map": "/react-contact-search-filter-app/static/js/main.0316b4ff.js.map",
+    "787.2d0daef2.chunk.js.map": "/react-contact-search-filter-app/static/js/787.2d0daef2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e9e912.css",
+    "static/js/main.0316b4ff.js"
+  ]
+}
